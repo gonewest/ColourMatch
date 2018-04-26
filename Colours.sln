@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Colours", "Colours\Colours.csproj", "{0A0021B8-D2E6-4FAF-A906-76DCA7AD82F9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests", "Tests\Tests.csproj", "{0C743B6C-492A-4EDA-9B40-E07716C65681}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A0021B8-D2E6-4FAF-A906-76DCA7AD82F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A0021B8-D2E6-4FAF-A906-76DCA7AD82F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A0021B8-D2E6-4FAF-A906-76DCA7AD82F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A0021B8-D2E6-4FAF-A906-76DCA7AD82F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C743B6C-492A-4EDA-9B40-E07716C65681}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C743B6C-492A-4EDA-9B40-E07716C65681}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C743B6C-492A-4EDA-9B40-E07716C65681}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C743B6C-492A-4EDA-9B40-E07716C65681}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EE8D043-36EA-4CF4-944C-6A0FC6B60DF3}
+	EndGlobalSection
+EndGlobal
