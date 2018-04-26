@@ -22,7 +22,7 @@ BODY: "https://pwintyimages.blob.core.windows.net/samples/stars/sample-navy.png"
 # Configuration
 Accepted colour values are defined used RGB values in the appsettings.json
 
-##Example config
+## Example config
 
 ```json
   "Colours": [
